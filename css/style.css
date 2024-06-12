@@ -208,7 +208,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #007bff;
   text-align: left;
   caption-side: bottom;
 }
@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
-  color: #44425A;
+  color: #007bff;
 }
 
 h1, .h1 {
@@ -518,7 +518,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #007bff;
 }
 
 .blockquote-footer::before {
@@ -550,12 +550,12 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #6c757d;
+  color: #007bff;
 }
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #007bff;
   word-wrap: break-word;
 }
 
